@@ -1,0 +1,46 @@
+.holder {
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.link {
+  color:black;
+}
+
+.repoholder {
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.name {
+  padding-left: 15px;
+}
+
+.description {
+  padding-left: 15px;
+}
+
+.arrows {
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.pagenumber {
+  display: inline;
+}
+
+.paginateholder {
+  margin: 0px auto;
+  text-align: center;
+  justify-self: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.searchInput {
+  margin-left: 10px;
+  width: 30vw;
+}
