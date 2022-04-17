@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fleo-Assignment/static/css/main.01a066d9.css",
+    "main.js": "/Fleo-Assignment/static/js/main.1afe4362.js",
+    "static/js/787.a5a00b74.chunk.js": "/Fleo-Assignment/static/js/787.a5a00b74.chunk.js",
+    "index.html": "/Fleo-Assignment/index.html",
+    "main.01a066d9.css.map": "/Fleo-Assignment/static/css/main.01a066d9.css.map",
+    "main.1afe4362.js.map": "/Fleo-Assignment/static/js/main.1afe4362.js.map",
+    "787.a5a00b74.chunk.js.map": "/Fleo-Assignment/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a066d9.css",
+    "static/js/main.1afe4362.js"
+  ]
+}
